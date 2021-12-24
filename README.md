@@ -16,3 +16,5 @@ write.txt和write1.txt为中间过程文件。
 ![image](https://user-images.githubusercontent.com/83856073/147355144-5d40909b-f597-4d0f-b2ed-1095ef825189.png)
 
 assusement.py文件表示对数据集D的处理，结果写入write1文件。
+
+代码在master分支里
